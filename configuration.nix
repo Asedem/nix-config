@@ -1,7 +1,7 @@
 { config, pkgs, ... }:
 
 {
-  imports: [
+  imports = [
     <home-manager/nixos>
     ./credentials.nix
   ];
