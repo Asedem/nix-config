@@ -2,6 +2,8 @@
 
 {
   imports = [
+    ./kernel.nix
+    ./bootloader.nix
     ./desktop.nix
     ./gpu.nix
   ];
