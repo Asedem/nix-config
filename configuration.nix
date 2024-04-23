@@ -8,6 +8,7 @@
     ./system/_enabled.nix
     ./gpu/apis.nix
     ./services/_enabled.nix
+    ./users/_enabled.nix
     ./device/_enabled.nix
   ];
 
