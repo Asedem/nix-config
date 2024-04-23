@@ -8,4 +8,4 @@ The configuration is split between multiple devices, with all require different 
 
 | Device Name | GPU             | DE      |
 |-------------|-----------------|---------|
-| Artemis     | Nvidea RTX 3060 | Plasma6 |
+| Artemis     | Nvidia RTX 3060 | Plasma6 |

@@ -1,5 +1,5 @@
 { config, pkgs, ... }:
 
 {
-  imports = [ ../../gpu/nvidea.nix ];
+  imports = [ ../../gpu/nvidia.nix ];
 }
