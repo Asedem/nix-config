@@ -5,6 +5,8 @@
     <home-manager/nixos>
     ./hardware-configuration.nix
     ./credentials.nix
+    ./system/_enabled.nix
+    ./gpu/apis.nix
     ./device/_enabled.nix
   ];
 
