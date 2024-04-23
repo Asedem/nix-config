@@ -3,7 +3,9 @@
 {
   imports = [
     <home-manager/nixos>
+    ./hardware-configuration.nix
     ./credentials.nix
+    ./device/_enabled.nix
   ];
 
   nixpkgs.config.allowUnfree = true;
