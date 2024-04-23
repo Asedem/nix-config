@@ -1,6 +1,10 @@
 { config, lib, pkgs, ... }:
 
 {
+  imports = [
+    ./../services/docker-nvidia.nix
+  ];
+
   services.xserver.videoDrivers = ["nvidia"];
 
   hardware.nvidia = {

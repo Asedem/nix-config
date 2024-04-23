@@ -7,6 +7,7 @@
     ./credentials.nix
     ./system/_enabled.nix
     ./gpu/apis.nix
+    ./services/_enabled.nix
     ./device/_enabled.nix
   ];
 

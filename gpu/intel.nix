@@ -1,6 +1,10 @@
 { config, pkgs, ... }:
 
 {
+  imports = [
+    ./../services/docker.nix
+  ];
+
   hardware.opengl = {
     extraPackages = with pkgs; [
       intel-compute-runtime
