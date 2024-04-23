@@ -14,9 +14,6 @@
       };
 
       init.defaultBranch = "main";
-      gpg.format = "ssh";
-      commit.gpgsign = true;
-      tag.gpgsign = true;
       column.ui = "auto";
       fetch.writeCommitGraph = true;
 
