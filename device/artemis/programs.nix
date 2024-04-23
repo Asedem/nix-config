@@ -10,6 +10,7 @@
     # Media
     ../../programs/media/brave.nix
     ../../programs/media/signal.nix
+    ../../programs/media/ani-cli.nix
     ../../programs/media/spotify.nix
     ../../programs/media/discord.nix
     ../../programs/media/tor-browser.nix
@@ -23,5 +24,7 @@
 
     # Editing
     ../../programs/editing/gimp.nix
+    ../../programs/editing/blender.nix
+    ../../programs/editing/davinci-resolve.nix
   ];
 }
