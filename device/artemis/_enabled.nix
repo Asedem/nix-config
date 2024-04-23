@@ -6,5 +6,6 @@
     ./bootloader.nix
     ./desktop.nix
     ./gpu.nix
+    ./programs.nix
   ];
 }
