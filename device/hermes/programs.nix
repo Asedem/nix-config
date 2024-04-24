@@ -14,11 +14,12 @@
 
     # Programming
     ../../programs/programming/git.nix
-    ../../programs/programming/vscode.nix
+    ../../programs/programming/vscodium.nix
     ../../programs/programming/gitkraken.nix
     ../../programs/programming/jetbrains-toolbox.nix
 
     # Editing
     ../../programs/editing/gimp.nix
+    ../../programs/editing/figma.nix
   ];
 }

@@ -18,13 +18,16 @@
 
     # Programming
     ../../programs/programming/git.nix
-    ../../programs/programming/vscode.nix
+    ../../programs/programming/vscodium.nix
     ../../programs/programming/gitkraken.nix
     ../../programs/programming/jetbrains-toolbox.nix
 
     # Editing
     ../../programs/editing/gimp.nix
+    ../../programs/editing/figma.nix
+    ../../programs/editing/krita.nix
     ../../programs/editing/blender.nix
+    ../../programs/editing/inkscape.nix
     ../../programs/editing/davinci-resolve.nix
   ];
 }
