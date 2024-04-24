@@ -1,11 +1,6 @@
 { config, pkgs, ... }:
 
 {
-  services.xserver = {
-    layout = "de";
-    xkbVariant = "us";
-  };
-
   console.keyMap = "de";
 
   i18n = {

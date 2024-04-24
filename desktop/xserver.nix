@@ -6,7 +6,7 @@
     enableTCP = false;
     xkb = {
       layout = "de";
-      variant = "deadgraveacute";
+      variant = "us";
     };
     libinput = {
       enable = true;
